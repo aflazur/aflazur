@@ -41,15 +41,15 @@ I'm a passionate **Full Stack Web Developer** and a **B.Sc in Computer Science &
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/aflazur">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/aflazur-rahaman-bab6b439a?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://facebook.com/YOUR_FACEBOOK">
+<a href="[https://facebook.com/YOUR_FACEBOOK](https://web.facebook.com/aflazur.rahaman.1)">
 <img src="https://skillicons.dev/icons?i=facebook"/>
 </a>
 
@@ -57,8 +57,8 @@ I'm a passionate **Full Stack Web Developer** and a **B.Sc in Computer Science &
 <img src="https://img.icons8.com/color/48/gmail-new.png" width="48"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.icons8.com/color/48/domain.png" width="48"/>
+<a href="https://quiet-wisp-1b039e.netlify.app/">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDq3iFoKWHBOEvXKFhiR9qqrt4DRDorzBm_wPh3lBMJA&s=10"/>
 </a>
 
 </div>
