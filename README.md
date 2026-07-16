@@ -1,16 +1,126 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**aflazur/aflazur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="1983" height="793" alt="Image" src="https://github.com/user-attachments/assets/ed5932ee-6e13-49fc-966d-95f20fec9add" />
 
-Here are some ideas to get you started:
+# Hi 👋, I'm Aflazur Rahaman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Full Stack Web Developer
+### 🎓 B.Sc in Computer Science & Engineering
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a passionate **Full Stack Web Developer** and a **B.Sc in Computer Science & Engineering** student. I enjoy building modern, responsive, and user-friendly web applications using the latest web technologies. I love solving real-world problems, continuously learning new technologies, and improving my development skills.
+
+---
+
+## 🚀 Current Activities
+
+- 🌱 Exploring **Next.js**
+- 💻 Building **Full Stack Web Applications**
+- 📚 Learning **Prisma ORM & PostgreSQL**
+- 🔥 Improving **Backend Development Skills**
+- 🎯 Preparing for a **Software Engineering Career**
+
+---
+
+## 💻 Skills
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,nodejs,express,mongodb,postgres,prisma,firebase,git,github,vscode,figma" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://facebook.com/YOUR_FACEBOOK">
+<img src="https://skillicons.dev/icons?i=facebook"/>
+</a>
+
+<a href="mailto:mdaflazurrahaman2022@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png" width="48"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.icons8.com/color/48/domain.png" width="48"/>
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</div>
+
+---
+
+## 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+**Code • Learn • Build • Repeat 🚀**
+
+</div>
