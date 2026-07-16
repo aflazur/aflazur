@@ -49,7 +49,7 @@ I'm a passionate **Full Stack Web Developer** and a **B.Sc in Computer Science &
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="[https://facebook.com/YOUR_FACEBOOK](https://web.facebook.com/aflazur.rahaman.1)">
+<a href="https://web.facebook.com/aflazur.rahaman.1">
 <img src="https://skillicons.dev/icons?i=facebook"/>
 </a>
 
@@ -58,7 +58,7 @@ I'm a passionate **Full Stack Web Developer** and a **B.Sc in Computer Science &
 </a>
 
 <a href="https://quiet-wisp-1b039e.netlify.app/">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDq3iFoKWHBOEvXKFhiR9qqrt4DRDorzBm_wPh3lBMJA&s=10"/>
+<img src="https://img.icons8.com/color/48/domain.png" width="48"/>
 </a>
 
 </div>
