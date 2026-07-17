@@ -5,7 +5,7 @@
 # Hi 👋, I'm Aflazur Rahaman
 
 ### 💻 Full Stack Web Developer
-### 🎓 B.Sc in Computer Science & Engineering
+### 🎓 B.Sc in Computer Science & Engineering (Running)
 
 </div>
 
@@ -49,8 +49,8 @@ I'm a passionate **Full Stack Web Developer** and a **B.Sc in Computer Science &
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://web.facebook.com/aflazur.rahaman.1">
-<img src="https://skillicons.dev/icons?i=facebook"/>
+<a href="https://web.facebook.com/aflazur.rahaman.1" target="_blank">
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" width="48" height="48"/>
 </a>
 
 <a href="mailto:mdaflazurrahaman2022@gmail.com">
@@ -65,59 +65,13 @@ I'm a passionate **Full Stack Web Developer** and a **B.Sc in Computer Science &
 
 ---
 
-## 📊 GitHub Statistics
-
+### 📊 GitHub Stats
+ 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</div>
-
----
-
-## 👀 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</div>
-
----
-
-<div align="center">
 
 ### 💙 Thanks for visiting my profile!
 
