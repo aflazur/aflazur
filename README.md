@@ -45,7 +45,7 @@ I'm a passionate **Full Stack Web Developer** and a **B.Sc in Computer Science &
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="www.linkedin.com/in/aflazur-rahaman">
+<a href="https://www.linkedin.com/in/aflazur-rahaman">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
