@@ -57,7 +57,7 @@ I'm a passionate **Full Stack Web Developer** and a **B.Sc in Computer Science &
 <img src="https://img.icons8.com/color/48/gmail-new.png" width="48"/>
 </a>
 
-<a href="https://quiet-wisp-1b039e.netlify.app/">
+<a href="https://my-portfolio-n7y3.vercel.app/">
 <img src="https://img.icons8.com/color/48/domain.png" width="48"/>
 </a>
 
